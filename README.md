@@ -40,8 +40,8 @@ EcoLife 環保日記
 ------- 
 * 設計架構<br>
   *   Kotlin<br>
-  *   Object-Oriented Programming (OOP)<br>
   *   Model-View-ViewModel (MVVM)<br>
+  *   Object-Oriented Programming (OOP)<br>
 * Jetpack<br>
   *   Data Binding<br>
   *   Navigation<br>
@@ -62,9 +62,11 @@ EcoLife 環保日記
 * Android Studio 4.1.2<br>
 * Android SDK 30<br>
 
+
 版本更新
 -------
 1.0.1 (2021/06/14)
+
 
 聯絡資訊
 -------
