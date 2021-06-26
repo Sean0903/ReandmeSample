@@ -1,6 +1,6 @@
 # ReandmeSample
-[![baidu]](https://play.google.com/store/apps/details?id=com.sean.green)
-[baidu]:https://user-images.githubusercontent.com/77279829/123395127-6ccaa380-d5d2-11eb-81fa-cf85b8479257.png
+[![homepage]](https://play.google.com/store/apps/details?id=com.sean.green)
+[homepage]:https://user-images.githubusercontent.com/77279829/123395127-6ccaa380-d5d2-11eb-81fa-cf85b8479257.png
 
 [![baidu]](http://baidu.com)  
 [baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"  
