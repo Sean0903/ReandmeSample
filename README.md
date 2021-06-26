@@ -57,14 +57,16 @@ EcoLife 環保日記
   *   Firebase Authentication / Crashlytics<br>
 
 
-
 開發環境
 ------- 
-
+* Android Studio 4.1.2<br>
+* Android SDK 30<br>
 
 版本更新
 -------
-
+1.0.1 (2021/06/14)
 
 聯絡資訊
 -------
+sean19600814@gmail.com
+
