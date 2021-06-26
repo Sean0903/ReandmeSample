@@ -7,6 +7,7 @@ EcoLife 環保日記
 
 測試用 Google 帳號：ecolife@gmail.com 密碼：greenworld
 
+
 功能介紹
 ------- 
 
@@ -35,6 +36,35 @@ EcoLife 環保日記
 <img src=https://user-images.githubusercontent.com/77279829/123503033-ed48dd00-d682-11eb-8a48-b436767ed08d.png width="270px" height="480px"/>
 
 
+架構與工具
+------- 
+* 設計架構<br>
+  *   Kotlin<br>
+  *   Object-Oriented Programming (OOP)<br>
+  *   Model-View-ViewModel (MVVM)<br>
+* Jetpack<br>
+  *   Data Binding<br>
+  *   Navigation<br>
+  *   Room<br>
+  *   LiveData<br>
+  *   ViewModel<br>
+  *   Lifecycles<br>
+  *   Permissions<br>
+* 其他工具<br>
+  *   Glide
+  *   MPAndroidChart<br>
+  *   Material CalendarView<br>
+  *   Firebase Authentication / Crashlytics<br>
 
 
 
+開發環境
+------- 
+
+
+版本更新
+-------
+
+
+聯絡資訊
+-------
