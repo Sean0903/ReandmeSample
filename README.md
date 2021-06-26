@@ -1,6 +1,6 @@
 # ReandmeSample
 
-[![]https://user-images.githubusercontent.com/77279829/123395127-6ccaa380-d5d2-11eb-81fa-cf85b8479257.png(https://play.google.com/store/apps/details?id=com.sean.green)
+[![](https://user-images.githubusercontent.com/77279829/123395127-6ccaa380-d5d2-11eb-81fa-cf85b8479257.png)](https://play.google.com/store/apps/details?id=com.sean.green)
 
 [![](http://www.baidu.com/img/bdlogo.gif)](http://baidu.com)
 
